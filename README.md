@@ -1,1 +1,1 @@
-Follow the instruction for setup Biometric Attendance System
+Follow the instruction for setuping the Biometric Attendance System project
