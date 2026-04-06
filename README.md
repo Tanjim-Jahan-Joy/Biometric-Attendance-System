@@ -105,6 +105,7 @@ Requires matching:
   "phoneNum": "0123456789"
 }
 
+
 ## Installation and Setup
 
 ### Hardware Setup
