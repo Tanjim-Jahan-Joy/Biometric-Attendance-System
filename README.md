@@ -93,7 +93,7 @@ Requires matching:
 {
   "id": "12345",
   "action": "enroll"
-}
+}```
 
 ### Response (Server → ESP32)
 ```json
@@ -105,7 +105,7 @@ Requires matching:
   "section": "A",
   "roll": 10,
   "phoneNum": "0123456789"
-}
+}```
 
 ## Installation and Setup
 
