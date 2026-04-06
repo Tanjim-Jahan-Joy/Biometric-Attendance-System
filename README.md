@@ -1,4 +1,4 @@
-# Biometric Attendance System (BAS)
+# Biometric Attendance System
 
 ## Overview
 The Biometric Attendance System (BAS) is an embedded IoT-based solution designed to automate attendance tracking using fingerprint recognition. The system improves reliability by eliminating proxy attendance and ensuring accurate data collection.
