@@ -93,9 +93,11 @@ Requires matching:
 {
   "id": "12345",
   "action": "enroll"
-}```
+}
+
 ### Response (Server → ESP32)
-```{
+```json
+{
   "status": "success",
   "message": "Enrollment successful",
   "name": "John Doe",
