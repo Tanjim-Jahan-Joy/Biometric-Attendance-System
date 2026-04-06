@@ -94,7 +94,7 @@ Requires matching:
   "id": "12345",
   "action": "enroll"
 }
-
+### Response (Server → ESP32)
 {
   "status": "success",
   "message": "Enrollment successful",
@@ -104,7 +104,6 @@ Requires matching:
   "roll": 10,
   "phoneNum": "0123456789"
 }
-
 
 ## Installation and Setup
 
