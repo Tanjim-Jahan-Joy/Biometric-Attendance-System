@@ -152,7 +152,3 @@ Requires matching:
 Contributions are welcome. Fork the repository and submit a pull request.
 
 ---
-
-If you want next level:
-- I can convert this into **GitHub professional README (badges, shields, diagrams, screenshots)**  
-- Or align it with your **actual folder structure (firmware/, server/, docs/ etc.)** which makes it look like a real commercial project.
