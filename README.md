@@ -93,7 +93,8 @@ Requires matching:
 {
   "id": "12345",
   "action": "enroll"
-}```
+}
+```
 
 ### Response (Server → ESP32)
 ```json
