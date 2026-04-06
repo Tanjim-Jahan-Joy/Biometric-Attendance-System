@@ -94,3 +94,61 @@ Requires matching:
   "id": "12345",
   "action": "enroll"
 }
+
+{
+  "status": "success",
+  "message": "Enrollment successful",
+  "name": "John Doe",
+  "class": 1,
+  "section": "A",
+  "roll": 10,
+  "phoneNum": "0123456789"
+}
+
+## Installation and Setup
+
+### Hardware Setup
+- Connect fingerprint sensor via UART  
+- Connect OLED via I2C  
+- Connect keypad to GPIO pins  
+- Ensure proper power supply  
+
+### Firmware Setup
+- Open project in Arduino IDE  
+- Select ESP32 board  
+- Configure Wi-Fi and server settings  
+- Upload firmware  
+
+### Server Setup
+- Install XAMPP or LAMP  
+- Configure PHP backend  
+- Import MySQL database  
+- Update API endpoints  
+
+---
+
+## Future Improvements
+- Face recognition integration  
+- Embedded Linux deployment  
+- Mobile application support  
+- Advanced analytics  
+- Power optimization  
+
+---
+
+## Use Cases
+- Schools and universities  
+- Offices and organizations  
+- Industrial monitoring systems  
+- Access control applications  
+
+---
+
+## Contribution
+Contributions are welcome. Fork the repository and submit a pull request.
+
+---
+
+If you want next level:
+- I can convert this into **GitHub professional README (badges, shields, diagrams, screenshots)**  
+- Or align it with your **actual folder structure (firmware/, server/, docs/ etc.)** which makes it look like a real commercial project.
